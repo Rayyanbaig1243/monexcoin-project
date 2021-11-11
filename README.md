@@ -4,7 +4,7 @@ Monexcoin integration/staging tree
 http://www.monexcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Monexcoin Developers
+Copyright (c) 20119-2020 Monexcoin Developers
 
 What is Monexcoin?
 ----------------
@@ -67,7 +67,7 @@ Unit tests for the core code are in `src/test/`. To compile and run them:
 
 Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
-    qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
+    qmake MONEXCOIN_QT_TEST=1 -o Makefile.test monexcoin-qt.pro
     make -f Makefile.test
     ./monexcoin-qt_test
 
