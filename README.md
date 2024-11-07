@@ -57,7 +57,6 @@ remember this is a security-critical project where any mistake might cost people
 lots of money.
 
 ### Automated Testing
-
 Developers are strongly encouraged to write unit tests for new code, and to
 submit new unit tests for old code.
 
